@@ -1,6 +1,6 @@
 {
-    "manufacturer": "deverdum",
-    "keyboard_name": "GravitasMacroPad",
+    "manufacturer": "Gravitas",
+    "keyboard_name": "GravitasPad",
     "maintainer": "deverdum",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
